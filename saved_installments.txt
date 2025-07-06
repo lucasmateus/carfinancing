@@ -1,0 +1,6 @@
+Name: LUCAS MATEUS DA SILVA MACHADO | Contact: asdasdasd | Type: INTERNAL | Installments: 12 | Value: 123123.00 | Monthly: 10670.66
+Name: John Doe 2 | Contact: john.doe2@email.com | Type: INTERNAL | Installments: 12 | Value: 50000.00 | Monthly: 4333.33
+Name: John Doe 2 | Contact: john.doe2@email.com | Type: INTERNAL | Installments: 12 | Value: 50000.00 | Monthly: 4333.33
+Name: John Doe 2 | Contact: john.doe2@email.com | Type: INTERNAL | Installments: 12 | Value: 50000.00 | Monthly: 4333.33
+Name: John Doe 2 | Contact: john.doe2@email.com | Type: INTERNAL | Installments: 12 | Value: 50000.00 | Monthly: 4333.33
+Name: John Doe 2 | Contact: john.doe2@email | Type: INTERNAL | Installments: 12 | Value: 50000.00 | Monthly: 4333.33
